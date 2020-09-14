@@ -1,7 +1,0 @@
-README.md
-setup.py
-src/helloworldsupreme.py
-src/helloworldsupreme.egg-info/PKG-INFO
-src/helloworldsupreme.egg-info/SOURCES.txt
-src/helloworldsupreme.egg-info/dependency_links.txt
-src/helloworldsupreme.egg-info/top_level.txt
