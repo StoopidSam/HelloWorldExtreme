@@ -8,7 +8,7 @@ Are you tired of writing those same old lines of code? Well, fear not! This modu
 
 ## Functions
 
-This library has some basic functions that will help you out loads when writing code.
+This library has a basic function that will help you out loads when writing code.
 
 ### sayhello
 ```
