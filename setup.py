@@ -4,10 +4,10 @@ with open('README.md', 'r') as fh:
     long_description=fh.read()
 
 setup (
-    name='helloworldsupreme',
+    name='helloworldextreme',
     version='0.0.1',
     description='The most universal piece of code. Ever.',
-    py_modules=['helloworldsupreme'],
+    py_modules=['helloworldextreme'],
     package_dir={'': 'src'},
     classifiers=[
         'Programming Language :: Python :: 3',
@@ -18,7 +18,7 @@ setup (
     ],
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/StoopidSam/HelloWorldSupreme',
+    url='https://github.com/StoopidSam/HelloWorldExtreme',
     author='StoopidSam',
     author_email='firwoodmedia@gmail.com'
 )
