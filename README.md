@@ -1,8 +1,8 @@
-# HelloWorldSupreme
+# HelloWorldExtreme
 
-### **`pip install helloworldsupreme`**
+### **`pip install helloworldextreme`**
 
-Welcome to HelloWorldSupreme, a simple, *yet powerful* Python library with a **HUGE** featureset. 
+Welcome to HelloWorldExtreme, a simple, *yet powerful* Python library with a **HUGE** featureset. 
 
 Are you tired of writing those same old lines of code? Well, fear not! This module is for you!
 
@@ -16,9 +16,9 @@ sayhello(name=None, withemoji=None)
 ```
 This has 2 parameters, `name` and `withemoji`. Example use:
 ```
-import helloworldsupreme as hws
+import helloworldextreme as hwe
 
-hellomsg = hws.sayhello('StoopidSam', withemoji=True)
+hellomsg = hwe.sayhello('StoopidSam', withemoji=True)
 print(hellomsg)
 ```
 This will return:
