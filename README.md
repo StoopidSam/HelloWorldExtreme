@@ -32,4 +32,4 @@ This is a string, and can be left blank to return a simple `Hello, world!` messa
 This is a bool value (True/False). Leave blank for no emoji to be added on to the end.
 
 ## Enjoy!
-I hope you enjoy using this code. You can see the license by going to `LICENSE.txt`. Any questions DM me on Discord (StoopidSam#0001) or open an issue.
+I hope you enjoy using this code. You can see the license by going to `LICENSE.txt`. Any questions DM me on Discord (StoopidSam#0010) or open an issue.
